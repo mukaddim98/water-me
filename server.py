@@ -42,16 +42,20 @@ def socket_accept():
 
 # Send commands to client/victim or a friend
 def send_commands(conn):
-    while True:
-        cmd = input()
-        if cmd == 'quit':
-            conn.close()
-            s.close()
-            sys.exit()
-        if len(str.encode(cmd)) > 0:
-            conn.send(str.encode(cmd))
-            client_response = str(conn.recv(1024),"utf-8")
-            print(client_response, end="")
+    msg = checkThreshold(1000)
+    conn.send(str.encode(msg))
+    #client_response = str(conn.recv(1024),"utf-8")
+    #print(client_response, end="")
+
+
+def checkThreshold(currReading):
+    if (currReading < 1500):
+        msg = "Need water"
+    elif (currReading < 2000):
+        msg = "Enough water"
+    else:
+        msg = "Too much water"
+    return msg
 
 
 def main():
