@@ -37,8 +37,8 @@ while True:
     if(changeMoisture != 0):
         oldDateTime = dateTime
         dateTime = datetime.datetime.now()
-        ch = dateTime - oldDateTime
-        changeDateTime = (ch.days, ch.hours, ch.minutes)
+        changeDateTime = dateTime - oldDateTime
+
         result = FBConn.get(url,None)
         lastEntry = list(result.keys())[0]
         FBConn.delete(url,lastEntry)
@@ -55,7 +55,7 @@ while True:
     
         result = FBConn.post(url, data_to_upload)
         
-        print("Time Difference:",changeDateTime)
+        print("Time Difference:",changeDateTime.resolution)
         print(result)
 
 
