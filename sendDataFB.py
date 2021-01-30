@@ -4,13 +4,15 @@ from gpiozero import DigitalInputDevice
 import time
 import datetime
 
+WMD_SERIAL_NUMBER = '001' 
+
 print("Program started!")
 
 FBConn = firebase.FirebaseApplication('https://water-me-433c0-default-rtdb.firebaseio.com/',None)
 d0_input = DigitalInputDevice(21)
-
+        
 #reset
-url = '/MyTestData/'
+url = '/WMD/WMD-001/'
 result = FBConn.get(url,None)
 if(result != None):
     Entries = list(result.keys())
@@ -22,7 +24,7 @@ soilMoisture = d0_input.value
 dateTime = datetime.datetime.now()
 data_to_upload = {
     'Soil Moisture' : soilMoisture,
-    'Time' : dateTime
+    'Time' : 0
 }
 result = FBConn.post(url, data_to_upload)
 print(result)
@@ -37,8 +39,8 @@ while True:
     if(changeMoisture != 0):
         oldDateTime = dateTime
         dateTime = datetime.datetime.now()
-        ch = dateTime - oldDateTime
-        changeDateTime = (ch.days, ch.hours, ch.minutes)
+        changeDateTime = dateTime - oldDateTime
+        
         result = FBConn.get(url,None)
         lastEntry = list(result.keys())[0]
         FBConn.delete(url,lastEntry)
@@ -50,12 +52,12 @@ while True:
 
         data_to_upload = {
             'Soil Moisture' : soilMoisture,
-            'Time' : dateTime
+            'Time' : changeDateTime
         }
     
         result = FBConn.post(url, data_to_upload)
         
-        print("Time Difference:",changeDateTime)
+        print(str(changeDateTime))
         print(result)
 
 

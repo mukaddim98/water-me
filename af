@@ -1,0 +1,48 @@
+[33mcommit 4a934c76186a4bbde5302997f5ead78bae67435a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: mukaddim98 <mukaddim1998@gmail.com>
+Date:   Mon Dec 21 07:55:51 2020 +0000
+
+    difference calculation
+
+[33mcommit 0994efcccbe50525afd17aeb2f8be2e6ecd82cd8[m
+Author: mukaddim98 <mukaddim1998@gmail.com>
+Date:   Mon Dec 21 07:40:56 2020 +0000
+
+    difference calculation
+
+[33mcommit 3b71878c9479b20e3950a8037418d6be7ecb7861[m
+Merge: 6b57534 c2385ce
+Author: mukaddim98 <mukaddim1998@gmail.com>
+Date:   Thu Dec 17 03:53:48 2020 +0000
+
+    Merge branch 'master' of https://github.com/mukaddim98/water-me
+
+[33mcommit 6b57534bfcb19c1e5dfc768de28bfd4ec790c6c1[m
+Author: mukaddim98 <mukaddim1998@gmail.com>
+Date:   Thu Dec 17 03:53:04 2020 +0000
+
+    can send data to Firebase
+
+[33mcommit c2385ce79fdfd437f70aab426d4af2e6ecdeb4da[m
+Author: Abdullah Al Mukaddim <33270655+mukaddim98@users.noreply.github.com>
+Date:   Mon Dec 7 00:54:00 2020 -0400
+
+    Create README.md
+
+[33mcommit 485b8f785ba10ab721d057e7369169d06fd7c1b5[m
+Author: mukaddim98 <mukaddim1998@gmail.com>
+Date:   Tue Jun 16 03:09:31 2020 +0100
+
+    Added file for sensor testing
+
+[33mcommit 539cfe4ad1aed41933025da5c1e1d3d467c63b74[m
+Author: mukaddim98 <mukaddim98@gmail.com>
+Date:   Mon Jun 15 22:19:59 2020 -0300
+
+    Some changes
+
+[33mcommit b3a97fa80d47978719b605358819a2d79981dfdb[m
+Author: mukaddim98 <mukaddim98@gmail.com>
+Date:   Thu May 28 03:00:08 2020 -0300
+
+    Initial
