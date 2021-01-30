@@ -5,13 +5,15 @@ import Adafruit_MCP3008
 am = Adafruit_MCP3008.MCP3008(clk = 11, cs = 8, miso = 9, mosi = 10)
 
 while True:
+  maxVal = 838  
   moisture_value = am.read_adc(0) # Get the analog reading from the soil moist sensor
-  per = moisture_value * 100 / 1023  # Converting the moisture value to percentage
+  per = moisture_value * 100 / maxVal  # Converting the moisture value to percentage
+  print("Moisture Value: "+str(moisture_value));
   print("Recorded moisture value is %s percentage" % per)
-  if moisture_value >= 930:
-    print(" No water, Can you plaease water me")
-  elif moisture_value < 930 and moisture_value >= 350:
-    print(" I'm sufficient ")
-  elif moisture_value < 350 :
-    print(" Stop drowning me!")
+  if per >= 70:
+    print("Stop! I will vomit.")
+  elif moisture_value < 70 and moisture_value >= 30:
+      print("Hey, I'm full :D")
+  elif moisture_value < 30 :
+    print("Yo, I'm thirsty!")
   sleep(1.5)
