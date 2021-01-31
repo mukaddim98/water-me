@@ -1,0 +1,664 @@
+Program started!!!
+Firebase connection established
+Firebase data reset done
+{u'name': u'-MSNfySRGHYXqEtCe53z'}
+('Soil Moisture:', 378)
+('Moisture Percentage:', 45)
+('Time Elapsed:', datetime.timedelta(0, 2, 395776))
+0:00:02.395776
+{u'name': u'-MSNfzIaXymtVyKR8f14'}
+('Soil Moisture:', 369)
+('Moisture Percentage:', 44)
+('Time Elapsed:', datetime.timedelta(0, 3, 469451))
+0:00:03.469451
+{u'name': u'-MSNg-6Hp91Dqsru9CPU'}
+('Soil Moisture:', 384)
+('Moisture Percentage:', 45)
+('Time Elapsed:', datetime.timedelta(0, 3, 305091))
+0:00:03.305091
+{u'name': u'-MSNg-tiWOZxbqpgLN6c'}
+('Soil Moisture:', 363)
+('Moisture Percentage:', 43)
+('Time Elapsed:', datetime.timedelta(0, 3, 228043))
+0:00:03.228043
+{u'name': u'-MSNg0hKUJi1Skg5VGGC'}
+('Soil Moisture:', 375)
+('Moisture Percentage:', 44)
+('Time Elapsed:', datetime.timedelta(0, 3, 302336))
+0:00:03.302336
+{u'name': u'-MSNg1UPUJb_KjJIYxyq'}
+('Soil Moisture:', 362)
+('Moisture Percentage:', 43)
+('Time Elapsed:', datetime.timedelta(0, 3, 206283))
+0:00:03.206283
+{u'name': u'-MSNg2IWYxbpOOiylydp'}
+('Soil Moisture:', 355)
+('Moisture Percentage:', 42)
+('Time Elapsed:', datetime.timedelta(0, 3, 337812))
+0:00:03.337812
+{u'name': u'-MSNg39usfWhrIBn2TiO'}
+('Soil Moisture:', 364)
+('Moisture Percentage:', 43)
+('Time Elapsed:', datetime.timedelta(0, 3, 541476))
+0:00:03.541476
+{u'name': u'-MSNg3xmquABgc9rmtmB'}
+('Soil Moisture:', 360)
+('Moisture Percentage:', 42)
+('Time Elapsed:', datetime.timedelta(0, 3, 258374))
+0:00:03.258374
+{u'name': u'-MSNg4kZjBshGOdSB1xk'}
+('Soil Moisture:', 348)
+('Moisture Percentage:', 41)
+('Time Elapsed:', datetime.timedelta(0, 3, 250054))
+0:00:03.250054
+{u'name': u'-MSNg5XweBrZTaUeJzSU'}
+('Soil Moisture:', 341)
+('Moisture Percentage:', 40)
+('Time Elapsed:', datetime.timedelta(0, 3, 222457))
+0:00:03.222457
+{u'name': u'-MSNg6LF25gY5J3tsp7A'}
+('Soil Moisture:', 342)
+('Moisture Percentage:', 40)
+('Time Elapsed:', datetime.timedelta(0, 3, 281799))
+0:00:03.281799
+{u'name': u'-MSNg7A9kgjz6Dj6igjb'}
+('Soil Moisture:', 334)
+('Moisture Percentage:', 39)
+('Time Elapsed:', datetime.timedelta(0, 3, 387959))
+0:00:03.387959
+{u'name': u'-MSNg7xynN5plH-SYXQH'}
+('Soil Moisture:', 343)
+('Moisture Percentage:', 40)
+('Time Elapsed:', datetime.timedelta(0, 3, 252954))
+0:00:03.252954
+{u'name': u'-MSNg8nL6P3TgpovfJm7'}
+('Soil Moisture:', 322)
+('Moisture Percentage:', 38)
+('Time Elapsed:', datetime.timedelta(0, 3, 414660))
+0:00:03.414660
+{u'name': u'-MSNg9a8H3nJ2anIKHd1'}
+('Soil Moisture:', 331)
+('Moisture Percentage:', 39)
+('Time Elapsed:', datetime.timedelta(0, 3, 251960))
+0:00:03.251960
+{u'name': u'-MSNgANYZdKfhoL-Tafn'}
+('Soil Moisture:', 326)
+('Moisture Percentage:', 38)
+('Time Elapsed:', datetime.timedelta(0, 3, 227512))
+0:00:03.227512
+{u'name': u'-MSNgB9xGB_R3nrpkvzL'}
+('Soil Moisture:', 321)
+('Moisture Percentage:', 38)
+('Time Elapsed:', datetime.timedelta(0, 3, 223090))
+0:00:03.223090
+{u'name': u'-MSNgBxLYf75Vp_GY2TT'}
+('Soil Moisture:', 317)
+('Moisture Percentage:', 37)
+('Time Elapsed:', datetime.timedelta(0, 3, 225526))
+0:00:03.225526
+{u'name': u'-MSNgCjV4KnIvLEXe0sa'}
+('Soil Moisture:', 311)
+('Moisture Percentage:', 37)
+('Time Elapsed:', datetime.timedelta(0, 3, 209090))
+0:00:03.209090
+{u'name': u'-MSNgDX6SJVb_wmOTT5r'}
+('Soil Moisture:', 322)
+('Moisture Percentage:', 38)
+('Time Elapsed:', datetime.timedelta(0, 3, 238851))
+0:00:03.238851
+{u'name': u'-MSNgEJi8UqloBozYYRW'}
+('Soil Moisture:', 309)
+('Moisture Percentage:', 36)
+('Time Elapsed:', datetime.timedelta(0, 3, 239571))
+0:00:03.239571
+{u'name': u'-MSNgF5vkZK_gZoS0nI8'}
+('Soil Moisture:', 310)
+('Moisture Percentage:', 36)
+('Time Elapsed:', datetime.timedelta(0, 3, 213222))
+0:00:03.213222
+{u'name': u'-MSNgFtDW8ItF81lT99m'}
+('Soil Moisture:', 317)
+('Moisture Percentage:', 37)
+('Time Elapsed:', datetime.timedelta(0, 3, 218388))
+0:00:03.218388
+{u'name': u'-MSNgGg-9MrJfvADfgBs'}
+('Soil Moisture:', 304)
+('Moisture Percentage:', 36)
+('Time Elapsed:', datetime.timedelta(0, 3, 250848))
+0:00:03.250848
+{u'name': u'-MSNgHTaG4yOyYyPWc_1'}
+('Soil Moisture:', 302)
+('Moisture Percentage:', 36)
+('Time Elapsed:', datetime.timedelta(0, 3, 242411))
+0:00:03.242411
+{u'name': u'-MSNgIGCF-y8o0jb2ROb'}
+('Soil Moisture:', 303)
+('Moisture Percentage:', 36)
+('Time Elapsed:', datetime.timedelta(0, 3, 238100))
+0:00:03.238100
+{u'name': u'-MSNgJ2kCMRIYxsMI_Hf'}
+('Soil Moisture:', 311)
+('Moisture Percentage:', 37)
+('Time Elapsed:', datetime.timedelta(0, 3, 231666))
+0:00:03.231666
+{u'name': u'-MSNgJq-LdVRVyZrn1Cx'}
+('Soil Moisture:', 300)
+('Moisture Percentage:', 35)
+('Time Elapsed:', datetime.timedelta(0, 3, 215701))
+0:00:03.215701
+{u'name': u'-MSNgKca5pLq8MHwDeys'}
+('Soil Moisture:', 283)
+('Moisture Percentage:', 33)
+('Time Elapsed:', datetime.timedelta(0, 3, 237365))
+0:00:03.237365
+{u'name': u'-MSNgLPqvvph-htbVyw8'}
+('Soil Moisture:', 281)
+('Moisture Percentage:', 33)
+('Time Elapsed:', datetime.timedelta(0, 3, 216912))
+0:00:03.216912
+{u'name': u'-MSNgMCmMIuireHLkcHT'}
+('Soil Moisture:', 292)
+('Moisture Percentage:', 34)
+('Time Elapsed:', datetime.timedelta(0, 3, 260412))
+0:00:03.260412
+{u'name': u'-MSNgN-Ssz0UalzckLic'}
+('Soil Moisture:', 263)
+('Moisture Percentage:', 31)
+('Time Elapsed:', datetime.timedelta(0, 3, 241699))
+0:00:03.241699
+{u'name': u'-MSNgNmgEAubHjl13bMq'}
+('Soil Moisture:', 271)
+('Moisture Percentage:', 32)
+('Time Elapsed:', datetime.timedelta(0, 3, 215912))
+0:00:03.215912
+{u'name': u'-MSNgOcxFXdLLYQYOC2t'}
+('Soil Moisture:', 264)
+('Moisture Percentage:', 31)
+('Time Elapsed:', datetime.timedelta(0, 3, 479064))
+0:00:03.479064
+{u'name': u'-MSNgPWIlI908cXrGV97'}
+('Soil Moisture:', 274)
+('Moisture Percentage:', 32)
+('Time Elapsed:', datetime.timedelta(0, 3, 598793))
+0:00:03.598793
+{u'name': u'-MSNgQLCUtquTJCjkRWb'}
+('Soil Moisture:', 266)
+('Moisture Percentage:', 31)
+('Time Elapsed:', datetime.timedelta(0, 3, 388851))
+0:00:03.388851
+{u'name': u'-MSNgR7uFOLDafTZ7Wap'}
+('Soil Moisture:', 274)
+('Moisture Percentage:', 32)
+('Time Elapsed:', datetime.timedelta(0, 5, 250346))
+0:00:05.250346
+{u'name': u'-MSNgSQ0Q6Mr6EDTzkNW'}
+('Soil Moisture:', 263)
+('Moisture Percentage:', 31)
+('Time Elapsed:', datetime.timedelta(0, 3, 250087))
+0:00:03.250087
+{u'name': u'-MSNgTCUiNw0N4Lz46HJ'}
+('Soil Moisture:', 249)
+('Moisture Percentage:', 29)
+('Time Elapsed:', datetime.timedelta(0, 3, 227006))
+0:00:03.227006
+{u'name': u'-MSNgTzjx6ZXW37UZJp9'}
+('Soil Moisture:', 253)
+('Moisture Percentage:', 30)
+('Time Elapsed:', datetime.timedelta(0, 5, 221305))
+0:00:05.221305
+{u'name': u'-MSNgVHeXYa5i4C-BNMd'}
+('Soil Moisture:', 247)
+('Moisture Percentage:', 29)
+('Time Elapsed:', datetime.timedelta(0, 3, 303226))
+0:00:03.303226
+{u'name': u'-MSNgW47SSYw0IuPTzHH'}
+('Soil Moisture:', 243)
+('Moisture Percentage:', 28)
+('Time Elapsed:', datetime.timedelta(0, 3, 232968))
+0:00:03.232968
+{u'name': u'-MSNgWtA2M7JJGStSoP-'}
+('Soil Moisture:', 250)
+('Moisture Percentage:', 29)
+('Time Elapsed:', datetime.timedelta(0, 3, 327827))
+0:00:03.327827
+{u'name': u'-MSNgXfp11kSSBgJADOh'}
+('Soil Moisture:', 241)
+('Moisture Percentage:', 28)
+('Time Elapsed:', datetime.timedelta(0, 3, 241787))
+0:00:03.241787
+{u'name': u'-MSNgYTDfZZ5DG5yice9'}
+('Soil Moisture:', 232)
+('Moisture Percentage:', 27)
+('Time Elapsed:', datetime.timedelta(0, 3, 227313))
+0:00:03.227313
+{u'name': u'-MSNgZFwsr9AX-G69S_G'}
+('Soil Moisture:', 251)
+('Moisture Percentage:', 29)
+('Time Elapsed:', datetime.timedelta(0, 3, 243331))
+0:00:03.243331
+{u'name': u'-MSNg_31PGxLwx0zM9Qx'}
+('Soil Moisture:', 243)
+('Moisture Percentage:', 28)
+('Time Elapsed:', datetime.timedelta(0, 3, 270631))
+0:00:03.270631
+{u'name': u'-MSNg_qY1yB34jCUZF1L'}
+('Soil Moisture:', 230)
+('Moisture Percentage:', 27)
+('Time Elapsed:', datetime.timedelta(0, 3, 232950))
+0:00:03.232950
+{u'name': u'-MSNgaf6Bg383ETGGUEx'}
+('Soil Moisture:', 223)
+('Moisture Percentage:', 26)
+('Time Elapsed:', datetime.timedelta(0, 3, 365721))
+0:00:03.365721
+{u'name': u'-MSNgbSG7TC8n2pwrdX0'}
+('Soil Moisture:', 227)
+('Moisture Percentage:', 27)
+('Time Elapsed:', datetime.timedelta(0, 3, 235852))
+0:00:03.235852
+{u'name': u'-MSNgcFuTnLipY_F9_1t'}
+('Soil Moisture:', 230)
+('Moisture Percentage:', 27)
+('Time Elapsed:', datetime.timedelta(0, 5, 289689))
+0:00:05.289689
+{u'name': u'-MSNgdXXpwgVdj82Rw5Y'}
+('Soil Moisture:', 221)
+('Moisture Percentage:', 26)
+('Time Elapsed:', datetime.timedelta(0, 3, 210410))
+0:00:03.210410
+{u'name': u'-MSNgeJo8tcboePhbL5T'}
+('Soil Moisture:', 206)
+('Moisture Percentage:', 24)
+('Time Elapsed:', datetime.timedelta(0, 3, 218573))
+0:00:03.218573
+{u'name': u'-MSNgf6W2TfiNO6johHF'}
+('Soil Moisture:', 212)
+('Moisture Percentage:', 25)
+('Time Elapsed:', datetime.timedelta(0, 3, 246441))
+0:00:03.246441
+{u'name': u'-MSNgfu91DMML4rKmS5o'}
+('Soil Moisture:', 221)
+('Moisture Percentage:', 26)
+('Time Elapsed:', datetime.timedelta(0, 3, 239840))
+0:00:03.239840
+{u'name': u'-MSNgggknoqXq3z_HSDR'}
+('Soil Moisture:', 210)
+('Moisture Percentage:', 25)
+('Time Elapsed:', datetime.timedelta(0, 3, 239729))
+0:00:03.239729
+{u'name': u'-MSNghUCQnb25E7b9A3V'}
+('Soil Moisture:', 209)
+('Moisture Percentage:', 24)
+('Time Elapsed:', datetime.timedelta(0, 3, 227960))
+0:00:03.227960
+{u'name': u'-MSNgiGOM7FVUjPJTGxh'}
+('Soil Moisture:', 198)
+('Moisture Percentage:', 23)
+('Time Elapsed:', datetime.timedelta(0, 3, 210612))
+0:00:03.210612
+{u'name': u'-MSNgj30UtjycXENwPHF'}
+('Soil Moisture:', 220)
+('Moisture Percentage:', 26)
+('Time Elapsed:', datetime.timedelta(0, 3, 240206))
+0:00:03.240206
+{u'name': u'-MSNgjqpq02FEHBEpLhz'}
+('Soil Moisture:', 198)
+('Moisture Percentage:', 23)
+('Time Elapsed:', datetime.timedelta(0, 3, 251874))
+0:00:03.251874
+{u'name': u'-MSNgkdNNem_EvtAUPHj'}
+('Soil Moisture:', 195)
+('Moisture Percentage:', 23)
+('Time Elapsed:', datetime.timedelta(0, 3, 236313))
+0:00:03.236313
+{u'name': u'-MSNglQriktRlIzXuMns'}
+('Soil Moisture:', 198)
+('Moisture Percentage:', 23)
+('Time Elapsed:', datetime.timedelta(0, 3, 230472))
+0:00:03.230472
+{u'name': u'-MSNgmDEdns1B8N3QyIm'}
+('Soil Moisture:', 202)
+('Moisture Percentage:', 24)
+('Time Elapsed:', datetime.timedelta(0, 3, 224484))
+0:00:03.224484
+{u'name': u'-MSNgn00O1tlSjGmwnDm'}
+('Soil Moisture:', 191)
+('Moisture Percentage:', 22)
+('Time Elapsed:', datetime.timedelta(0, 3, 248976))
+0:00:03.248976
+{u'name': u'-MSNgnnPEkOJifyXWahz'}
+('Soil Moisture:', 196)
+('Moisture Percentage:', 23)
+('Time Elapsed:', datetime.timedelta(0, 3, 227379))
+0:00:03.227379
+{u'name': u'-MSNgo_yGnhHX0YX3DVN'}
+('Soil Moisture:', 194)
+('Moisture Percentage:', 23)
+('Time Elapsed:', datetime.timedelta(0, 3, 233700))
+0:00:03.233700
+{u'name': u'-MSNgpNiFoU8gP0sBNYe'}
+('Soil Moisture:', 191)
+('Moisture Percentage:', 22)
+('Time Elapsed:', datetime.timedelta(0, 3, 248207))
+0:00:03.248207
+{u'name': u'-MSNgqAG56Pdxglhc1UI'}
+('Soil Moisture:', 186)
+('Moisture Percentage:', 22)
+('Time Elapsed:', datetime.timedelta(0, 3, 253373))
+0:00:03.253373
+{u'name': u'-MSNgr5xTp1s5gkQtcau'}
+('Soil Moisture:', 189)
+('Moisture Percentage:', 22)
+('Time Elapsed:', datetime.timedelta(0, 5, 806616))
+0:00:05.806616
+{u'name': u'-MSNgsQOGKyhtokS7Ii1'}
+('Soil Moisture:', 174)
+('Moisture Percentage:', 20)
+('Time Elapsed:', datetime.timedelta(0, 3, 399676))
+0:00:03.399676
+{u'name': u'-MSNgtCZKnzXZFVAgqab'}
+('Soil Moisture:', 191)
+('Moisture Percentage:', 22)
+('Time Elapsed:', datetime.timedelta(0, 3, 209163))
+0:00:03.209163
+{u'name': u'-MSNgu-1vhxNsu5hPRzR'}
+('Soil Moisture:', 197)
+('Moisture Percentage:', 23)
+('Time Elapsed:', datetime.timedelta(0, 3, 231872))
+0:00:03.231872
+{u'name': u'-MSNgumAARZYfvFy78vh'}
+('Soil Moisture:', 180)
+('Moisture Percentage:', 21)
+('Time Elapsed:', datetime.timedelta(0, 3, 206453))
+0:00:03.206453
+{u'name': u'-MSNgv_a-MXvWlmMND1S'}
+('Soil Moisture:', 184)
+('Moisture Percentage:', 21)
+('Time Elapsed:', datetime.timedelta(0, 3, 292270))
+0:00:03.292270
+{u'name': u'-MSNgwNIuY9ndYHke8Nq'}
+('Soil Moisture:', 170)
+('Moisture Percentage:', 20)
+('Time Elapsed:', datetime.timedelta(0, 3, 244750))
+0:00:03.244750
+{u'name': u'-MSNgx9xVQw9P8J1fVc8'}
+('Soil Moisture:', 185)
+('Moisture Percentage:', 22)
+('Time Elapsed:', datetime.timedelta(0, 3, 243604))
+0:00:03.243604
+{u'name': u'-MSNgxxQ-XVmXVwG5GjZ'}
+('Soil Moisture:', 184)
+('Moisture Percentage:', 21)
+('Time Elapsed:', datetime.timedelta(0, 3, 249960))
+0:00:03.249960
+{u'name': u'-MSNgykFxIsskFGPq7-k'}
+('Soil Moisture:', 175)
+('Moisture Percentage:', 20)
+('Time Elapsed:', datetime.timedelta(0, 3, 233889))
+0:00:03.233889
+{u'name': u'-MSNgzXjH7pMdOLQvms5'}
+('Soil Moisture:', 166)
+('Moisture Percentage:', 19)
+('Time Elapsed:', datetime.timedelta(0, 3, 229153))
+0:00:03.229153
+{u'name': u'-MSNh-KyaEAOjH-FyN6v'}
+('Soil Moisture:', 159)
+('Moisture Percentage:', 18)
+('Time Elapsed:', datetime.timedelta(0, 3, 283736))
+0:00:03.283736
+{u'name': u'-MSNh0KaaVZSaBsrTBdR'}
+('Soil Moisture:', 161)
+('Moisture Percentage:', 19)
+('Time Elapsed:', datetime.timedelta(0, 4, 68231))
+0:00:04.068231
+{u'name': u'-MSNh18iPyUNOeOeJ-g5'}
+('Soil Moisture:', 164)
+('Moisture Percentage:', 19)
+('Time Elapsed:', datetime.timedelta(0, 3, 367368))
+0:00:03.367368
+{u'name': u'-MSNh1x7A-dYNRyACgTx'}
+('Soil Moisture:', 154)
+('Moisture Percentage:', 18)
+('Time Elapsed:', datetime.timedelta(0, 3, 267475))
+0:00:03.267475
+{u'name': u'-MSNh2mC9V5o5BJ0gy_B'}
+('Soil Moisture:', 160)
+('Moisture Percentage:', 19)
+('Time Elapsed:', datetime.timedelta(0, 3, 401801))
+0:00:03.401801
+{u'name': u'-MSNh3_E4oCatNdzoJjR'}
+('Soil Moisture:', 162)
+('Moisture Percentage:', 19)
+('Time Elapsed:', datetime.timedelta(0, 3, 251080))
+0:00:03.251080
+{u'name': u'-MSNh4N0VghJXeDU6-Ip'}
+('Soil Moisture:', 152)
+('Moisture Percentage:', 18)
+('Time Elapsed:', datetime.timedelta(0, 3, 249519))
+0:00:03.249519
+{u'name': u'-MSNh59XJ9YnSQQ0103E'}
+('Soil Moisture:', 153)
+('Moisture Percentage:', 18)
+('Time Elapsed:', datetime.timedelta(0, 3, 231613))
+0:00:03.231613
+{u'name': u'-MSNh5xO72MHTq4jzMnr'}
+('Soil Moisture:', 162)
+('Moisture Percentage:', 19)
+('Time Elapsed:', datetime.timedelta(0, 3, 257180))
+0:00:03.257180
+{u'name': u'-MSNh6kIJu3Ej6sKnb09'}
+('Soil Moisture:', 134)
+('Moisture Percentage:', 15)
+('Time Elapsed:', datetime.timedelta(0, 3, 262072))
+0:00:03.262072
+{u'name': u'-MSNh7eIbqMNC2S7Hlcr'}
+('Soil Moisture:', 165)
+('Moisture Percentage:', 19)
+('Time Elapsed:', datetime.timedelta(0, 3, 708470))
+0:00:03.708470
+{u'name': u'-MSNh8S2KsYFNeaOpVCM'}
+('Soil Moisture:', 152)
+('Moisture Percentage:', 18)
+('Time Elapsed:', datetime.timedelta(0, 3, 247613))
+0:00:03.247613
+{u'name': u'-MSNh9F4JztImNLdOYz7'}
+('Soil Moisture:', 129)
+('Moisture Percentage:', 15)
+('Time Elapsed:', datetime.timedelta(0, 3, 263165))
+0:00:03.263165
+{u'name': u'-MSNhA2xm3V_9_MmyXLU'}
+('Soil Moisture:', 145)
+('Moisture Percentage:', 17)
+('Time Elapsed:', datetime.timedelta(0, 3, 324156))
+0:00:03.324156
+{u'name': u'-MSNhAqygDt_tQUwJGCZ'}
+('Soil Moisture:', 144)
+('Moisture Percentage:', 17)
+('Time Elapsed:', datetime.timedelta(0, 5, 267503))
+0:00:05.267503
+{u'name': u'-MSNhCBjkV9cW9PAsqJB'}
+('Soil Moisture:', 158)
+('Moisture Percentage:', 18)
+('Time Elapsed:', datetime.timedelta(0, 3, 485598))
+0:00:03.485598
+{u'name': u'-MSNhCzg5Hw4oKcQK6j_'}
+('Soil Moisture:', 147)
+('Moisture Percentage:', 17)
+('Time Elapsed:', datetime.timedelta(0, 3, 262791))
+0:00:03.262791
+{u'name': u'-MSNhDmTj8pEHEHwVfdP'}
+('Soil Moisture:', 129)
+('Moisture Percentage:', 15)
+('Time Elapsed:', datetime.timedelta(0, 3, 246807))
+0:00:03.246807
+{u'name': u'-MSNhE_BlBdVtZbfHoW4'}
+('Soil Moisture:', 128)
+('Moisture Percentage:', 15)
+('Time Elapsed:', datetime.timedelta(0, 3, 281985))
+0:00:03.281985
+{u'name': u'-MSNhFNCLEvkuD0qFTIZ'}
+('Soil Moisture:', 153)
+('Moisture Percentage:', 18)
+('Time Elapsed:', datetime.timedelta(0, 3, 230134))
+0:00:03.230134
+{u'name': u'-MSNhGA4YCQEKiwCK6hC'}
+('Soil Moisture:', 134)
+('Moisture Percentage:', 15)
+('Time Elapsed:', datetime.timedelta(0, 3, 255645))
+0:00:03.255645
+{u'name': u'-MSNhGxQOSKS68yNUtMd'}
+('Soil Moisture:', 110)
+('Moisture Percentage:', 13)
+('Time Elapsed:', datetime.timedelta(0, 3, 222019))
+0:00:03.222019
+{u'name': u'-MSNhHjnTS2G5uBxk7lN'}
+('Soil Moisture:', 148)
+('Moisture Percentage:', 17)
+('Time Elapsed:', datetime.timedelta(0, 3, 225632))
+0:00:03.225632
+{u'name': u'-MSNhIXM8GV7sSsW00bI'}
+('Soil Moisture:', 138)
+('Moisture Percentage:', 16)
+('Time Elapsed:', datetime.timedelta(0, 3, 236244))
+0:00:03.236244
+{u'name': u'-MSNhJKumTVzomgmUn1c'}
+('Soil Moisture:', 147)
+('Moisture Percentage:', 17)
+('Time Elapsed:', datetime.timedelta(0, 3, 299223))
+0:00:03.299223
+{u'name': u'-MSNhK7b2UTKyoOOmoLP'}
+('Soil Moisture:', 123)
+('Moisture Percentage:', 14)
+('Time Elapsed:', datetime.timedelta(0, 3, 257013))
+0:00:03.257013
+{u'name': u'-MSNhKvLxDhduHn5RtrE'}
+('Soil Moisture:', 125)
+('Moisture Percentage:', 14)
+('Time Elapsed:', datetime.timedelta(0, 3, 233116))
+0:00:03.233116
+{u'name': u'-MSNhLhtETjzKxmbXTQx'}
+('Soil Moisture:', 0)
+('Moisture Percentage:', 0)
+('Time Elapsed:', datetime.timedelta(0, 3, 233587))
+0:00:03.233587
+{u'name': u'-MSNhMVfEbCDA4K-9MPl'}
+('Soil Moisture:', 16)
+('Moisture Percentage:', 1)
+('Time Elapsed:', datetime.timedelta(0, 9, 268128))
+0:00:09.268128
+{u'name': u'-MSNhOlGn-hXkf9qdrHl'}
+('Soil Moisture:', 0)
+('Moisture Percentage:', 0)
+('Time Elapsed:', datetime.timedelta(0, 3, 235888))
+0:00:03.235888
+{u'name': u'-MSNhPZiOCRxt508zH1E'}
+('Soil Moisture:', 29)
+('Moisture Percentage:', 3)
+('Time Elapsed:', datetime.timedelta(0, 5, 299593))
+0:00:05.299593
+{u'name': u'-MSNhQqO0zuPtyjCy9lM'}
+('Soil Moisture:', 0)
+('Moisture Percentage:', 0)
+('Time Elapsed:', datetime.timedelta(0, 3, 221564))
+0:00:03.221564
+{u'name': u'-MSNhRd627_feYB_JzxO'}
+('Soil Moisture:', 61)
+('Moisture Percentage:', 7)
+('Time Elapsed:', datetime.timedelta(0, 3, 245857))
+0:00:03.245857
+{u'name': u'-MSNhSQl6IYdaDeEi-md'}
+('Soil Moisture:', 0)
+('Moisture Percentage:', 0)
+('Time Elapsed:', datetime.timedelta(0, 3, 242138))
+0:00:03.242138
+{u'name': u'-MSNhTDPlEGQ3_ZFG9hZ'}
+('Soil Moisture:', 1)
+('Moisture Percentage:', 0)
+('Time Elapsed:', datetime.timedelta(0, 5, 246129))
+0:00:05.246129
+{u'name': u'-MSNhUV-bENd31DnrtF9'}
+('Soil Moisture:', 0)
+('Moisture Percentage:', 0)
+('Time Elapsed:', datetime.timedelta(0, 3, 218691))
+0:00:03.218691
+{u'name': u'-MSNhVR1NqOmp0t1OeuM'}
+('Soil Moisture:', 61)
+('Moisture Percentage:', 7)
+('Time Elapsed:', datetime.timedelta(0, 5, 863001))
+0:00:05.863001
+{u'name': u'-MSNhWi6WAdL48uM4Fvm'}
+('Soil Moisture:', 1)
+('Moisture Percentage:', 0)
+('Time Elapsed:', datetime.timedelta(0, 3, 232748))
+0:00:03.232748
+{u'name': u'-MSNhXVFzzPTttfoP8uX'}
+('Soil Moisture:', 0)
+('Moisture Percentage:', 0)
+('Time Elapsed:', datetime.timedelta(0, 3, 204726))
+0:00:03.204726
+{u'name': u'-MSNhYHqXa8r5VjlblNp'}
+('Soil Moisture:', 1)
+('Moisture Percentage:', 0)
+('Time Elapsed:', datetime.timedelta(0, 19, 296396))
+0:00:19.296396
+{u'name': u'-MSNhc-9hO1IQOAwR07N'}
+('Soil Moisture:', 0)
+('Moisture Percentage:', 0)
+('Time Elapsed:', datetime.timedelta(0, 3, 227743))
+0:00:03.227743
+{u'name': u'-MSNhcmkTWB5C0kNjWIE'}
+('Soil Moisture:', 57)
+('Moisture Percentage:', 6)
+('Time Elapsed:', datetime.timedelta(0, 3, 236008))
+0:00:03.236008
+{u'name': u'-MSNhd_vYJysdUv_DIUD'}
+('Soil Moisture:', 0)
+('Moisture Percentage:', 0)
+('Time Elapsed:', datetime.timedelta(0, 3, 276373))
+0:00:03.276373
+{u'name': u'-MSNheNK6yJ0ZAFOagtD'}
+('Soil Moisture:', 25)
+('Moisture Percentage:', 2)
+('Time Elapsed:', datetime.timedelta(0, 21, 279606))
+0:00:21.279606
+{u'name': u'-MSNhjZdVh40B17v7XKS'}
+('Soil Moisture:', 0)
+('Moisture Percentage:', 0)
+('Time Elapsed:', datetime.timedelta(0, 3, 213964))
+0:00:03.213964
+{u'name': u'-MSNhkMf2DZXOWdG9Q8o'}
+('Soil Moisture:', 61)
+('Moisture Percentage:', 7)
+('Time Elapsed:', datetime.timedelta(0, 5, 271832))
+0:00:05.271832
+{u'name': u'-MSNhldioQp0Xhde5UjV'}
+('Soil Moisture:', 0)
+('Moisture Percentage:', 0)
+('Time Elapsed:', datetime.timedelta(0, 3, 247461))
+0:00:03.247461
+{u'name': u'-MSNhmRgL0hoUx90g4p7'}
+('Soil Moisture:', 58)
+('Moisture Percentage:', 6)
+('Time Elapsed:', datetime.timedelta(0, 9, 278029))
+0:00:09.278029
+{u'name': u'-MSNhohKnJ2o1Xr-r5N1'}
+('Soil Moisture:', 0)
+('Moisture Percentage:', 0)
+('Time Elapsed:', datetime.timedelta(0, 3, 241531))
+0:00:03.241531
+{u'name': u'-MSNhpUkCrtyPBr4J1go'}
+('Soil Moisture:', 18)
+('Moisture Percentage:', 2)
+('Time Elapsed:', datetime.timedelta(0, 5, 231379))
+0:00:05.231379
+{u'name': u'-MSNhqlWFkCu3mYRRibT'}
+('Soil Moisture:', 0)
+('Moisture Percentage:', 0)
+('Time Elapsed:', datetime.timedelta(0, 3, 225700))
+0:00:03.225700
+{u'name': u'-MSNhrZ2uRUORwenxYej'}
+('Soil Moisture:', 51)
+('Moisture Percentage:', 6)
+('Time Elapsed:', datetime.timedelta(0, 7, 245204))
+0:00:07.245204
+{u'name'

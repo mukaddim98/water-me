@@ -12,8 +12,8 @@ while True:
   print("Recorded moisture value is %s percentage" % per)
   if per >= 70:
     print("Stop! I will vomit.")
-  elif moisture_value < 70 and moisture_value >= 30:
+  elif per < 70 and per >= 30:
       print("Hey, I'm full :D")
-  elif moisture_value < 30 :
+  elif per < 30 :
     print("Yo, I'm thirsty!")
   sleep(1.5)
